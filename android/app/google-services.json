@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "459054652509",
+    "project_id": "findyourtwo",
+    "storage_bucket": "findyourtwo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459054652509:android:264501d09426c0b26101b4",
+        "android_client_info": {
+          "package_name": "com.fyt.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459054652509-94vt7ddk3cu15l1l008oso3jbtdk59g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyt.android",
+            "certificate_hash": "69db6a361486cdc57718847202741e1d36faefc6"
+          }
+        },
+        {
+          "client_id": "459054652509-pb8huam1oe03kfem2dc6nvj96ckjcssm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyt.android",
+            "certificate_hash": "4b2b6424f8f3f8ac5c4be57a9a3339880d085ff3"
+          }
+        },
+        {
+          "client_id": "459054652509-5i0bv7eg2ok27vf09s75a06plvlg1s55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjYy6spXo6ZFE9fq5L-lSlQlrUBpLXFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459054652509-5i0bv7eg2ok27vf09s75a06plvlg1s55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459054652509-5iq0jmsot7lsjmi53elnc32heii978p7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fyt.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
